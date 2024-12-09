@@ -44,7 +44,8 @@ Welcome to the `demo_proc_dapp` project! This is a decentralized application (DA
    ```
    http://127.0.0.1:3000
    ```
-   ![WhatsApp Image 2024-12-09 at 12 26 56_0bdb95b8](https://github.com/user-attachments/assets/fc14189f-f645-4134-a323-661dfc1e9de9)
+![WhatsApp Image 2024-12-09 at 12 26 13_4c2168ca](https://github.com/user-attachments/assets/1c98fb52-4106-4cb3-ac92-07d835cb309b)
+
 
 
 ---
