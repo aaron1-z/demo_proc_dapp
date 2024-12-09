@@ -29,7 +29,11 @@ Welcome to the `demo_proc_dapp` project! This is a decentralized application (DA
    Open the backend canister in your browser:  
    ```
    http://127.0.0.1:4943/?canisterId=<backend-canister-id>
+
+   
    ```
+   ![WhatsApp Image 2024-12-09 at 12 26 56_2a6695ca](https://github.com/user-attachments/assets/1c92e8cc-4edf-46ca-a57a-a7df4b8d9200)
+
 
 4. **Access Frontend**  
    Start the frontend development server:  
@@ -40,6 +44,8 @@ Welcome to the `demo_proc_dapp` project! This is a decentralized application (DA
    ```
    http://127.0.0.1:3000
    ```
+   ![WhatsApp Image 2024-12-09 at 12 26 56_0bdb95b8](https://github.com/user-attachments/assets/fc14189f-f645-4134-a323-661dfc1e9de9)
+
 
 ---
 
@@ -59,4 +65,6 @@ Welcome to the `demo_proc_dapp` project! This is a decentralized application (DA
 - **Backend:** Rust-based canister logic.
 - **Frontend:** React for user interaction.
 
-![alt text](<Image1.jpg>)
+![WhatsApp Image 2024-12-09 at 12 25 17_aacc757b](https://github.com/user-attachments/assets/b81629b0-39d4-4d26-a757-234dc2f3ce65)
+
+
