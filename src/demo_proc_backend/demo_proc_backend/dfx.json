@@ -1,0 +1,28 @@
+{
+  "canisters": {
+    "demo_proc_backend_backend": {
+      "candid": "src/demo_proc_backend_backend/demo_proc_backend_backend.did",
+      "package": "demo_proc_backend_backend",
+      "type": "rust",
+      "build": "cargo build --target wasm32-unknown-unknown --release"
+    },
+    "demo_proc_backend_frontend": {
+      "dependencies": [
+        "demo_proc_backend_backend"
+      ],
+      "source": [
+        "src/demo_proc_backend_frontend/dist"
+      ],
+      "type": "assets",
+      "workspace": "demo_proc_backend_frontend"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
